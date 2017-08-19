@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LzCrazyBlog</title>
+  <subtitle>welcome</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/LzCrazy/"/>
+  <updated>2017-08-17T05:32:13.000Z</updated>
+  <id>https://github.com/LzCrazy/</id>
+  
+  <author>
+    <name>LzCrazy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客部署</title>
+    <link href="https://github.com/LzCrazy/2017/08/17/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/"/>
+    <id>https://github.com/LzCrazy/2017/08/17/博客部署/</id>
+    <published>2017-08-17T05:31:00.000Z</published>
+    <updated>2017-08-17T05:32:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="博客部署到云服务器"><a href="#博客部署到云服务器" class="headerlink" title="博客部署到云服务器"></a>博客部署到云服务器</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;博客部署到云服务器&quot;&gt;&lt;a href=&quot;#博客部署到云服务器&quot; class=&quot;headerlink&quot; title=&quot;博客部署到云服务器&quot;&gt;&lt;/a&gt;博客部署到云服务器&lt;/h3&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>blog入口</title>
+    <link href="https://github.com/LzCrazy/2017/06/19/Nodejs/"/>
+    <id>https://github.com/LzCrazy/2017/06/19/Nodejs/</id>
+    <published>2017-06-19T14:32:09.000Z</published>
+    <updated>2017-08-16T15:34:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的个人博客，使用的是hexo,来自台湾大学生tommy315所开发的个人博客模版</p>
+<h2 id="简单快速创建你的博客"><a href="#简单快速创建你的博客" class="headerlink" title="简单快速创建你的博客"></a>简单快速创建你的博客</h2><h3 id="创建你的POST"><a href="#创建你的POST" class="headerlink" title="创建你的POST"></a>创建你的POST</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>更多详情: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="运行服务"><a href="#运行服务" class="headerlink" title="运行服务"></a>运行服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>更多详情: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="创建静态文件"><a href="#创建静态文件" class="headerlink" title="创建静态文件"></a>创建静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>更多详情: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="部署博客到远程站点"><a href="#部署博客到远程站点" class="headerlink" title="部署博客到远程站点"></a>部署博客到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>更多详情: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是我的个人博客，使用的是hexo,来自台湾大学生tommy315所开发的个人博客模版&lt;/p&gt;
+&lt;h2 id=&quot;简单快速创建你的博客&quot;&gt;&lt;a href=&quot;#简单快速创建你的博客&quot; class=&quot;headerlink&quot; title=&quot;简单快速创建你的博客&quot;&gt;&lt;/a&gt;简单快速创
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
